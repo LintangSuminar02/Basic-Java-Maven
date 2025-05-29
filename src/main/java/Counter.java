@@ -16,8 +16,8 @@ public class Counter {
 		count++;
 	}
 	
-	public void decrementts() {
-		count--;
+	public void decrement() { //perbaikan
+		count--; 
 	}
 	
 	public int getCount() {
